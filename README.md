@@ -1,7 +1,5 @@
-# alostasis.github.io
-Survival is not a matter of political compromise. It is a matter of systemic compatibility.
-
-# ALOSTASIS: Evolution for a Viable Future
+# ALOSTASIS
+## For a Viable Future
 
 > "Survival is not a matter of political compromise. It is a matter of systemic compatibility."
 
@@ -26,15 +24,19 @@ Trust cannot be manufactured through public relations; it must be built into the
 
 ---
 
-## The Visual Metaphor: Borromean Dynamics
-Our architecture is modeled on the Borromean rings—three independent loops interlocked so precisely that if you cut just one, the entire structure completely dissolves. 
+## A Metaphor of Dimensional Realignment
 
-* **Logic** (The Code)
-* **Transparency** (The Unveiling)
-* **Civic Viability** (The Organism)
+Look closely at our architecture. 
 
-One cannot exist without the others. Together, they form a stable, resilient system capable of navigating a changing global terrain.
+On a flat, two-dimensional plane, different societal vectors are locked on an absolute collision course. This is the current state of our democracy—a toxic, polarizing bottleneck where competing ideals smash into each other at the center, causing systemic failure.
 
+We do not solve this by forcing anyone to bend, break, or abandon their ideals. Instead, we introduce a new dimension. 
+
+By upgrading our electoral and data frameworks, we lift these trajectories off the plane of conflict. In this higher dimension of structural consensus, the exact same forces that were destined to collide are realigned—flowing parallel to each other, preserving their unique identities, and moving together toward a viable future.
+
+As these independent lines project upward to survive, their combined architecture seamlessly forms the uppercase **A**—the fundamental cipher for **Alostasis**. 
+
+**Estabilidade mediante cambio.**
 ---
 
 [Explore the Code on GitHub](https://github.com/your-username) | Contact: info@your-proton-email
