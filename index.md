@@ -22,6 +22,8 @@ Nuestro objetivo es desarrollar y poner a disposición herramientas abiertas de 
 
 Buscamos convertirnos en un Insituto Abierto para Ingenieria Insitucional y promover una gestión pública basada en evidencia, sistemas verificables y resultados medibles, reduciendo la dependencia de decisiones puramente ideológicas. Mas que un movimiento queremos realizar contribuciones directas a los sistemas que deseamos mejorar sin alinearnos con corrientes ideológicas particulares.
 
+Nuestra pregunta ordinal es: "Como deben diseñar las sociedades los mecanismos para descubrir buenas políticas?"
+
 * [Conoce más sobre nuestra identidad visual](identity.md).
 
 
