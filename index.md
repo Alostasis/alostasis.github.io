@@ -27,12 +27,12 @@ Nuestra pregunta ordinal es: "Como deben diseñar las sociedades los mecanismos 
 * [Conoce más sobre nuestra identidad visual](identity.md).
 
 
-## Nuestros Pilares Colectivos
+## Nuestros Pilares de Desarrollo
 
 ### Protocolos Institucionales
 
 #### 1. Elecciones Ranqueadas
-Un diseño electoral de selección múltiple y descarte algorítmico que reduce drásticamente la polarización, desarticula los incentivos del populismo y desactiva la violencia electoral al priorizar los amplios consensos sobre las minorías ruidosas. 
+Un diseño electoral de selección múltiple y descarte algorítmico que no requiere de segunda vuelta. Reduce drásticamente la polarización, desarticula los incentivos del populismo y desactiva la violencia electoral al priorizar los amplios consensos sobre las minorías ruidosas. 
 * [Lee nuestro análisis sobre Voto Ranqueado].
 
 #### 2. Democracia Directa Informada por IA
@@ -46,7 +46,7 @@ Un ecosistema descentralizado basado en tecnologías Wiki dedicado a revelar el 
 ### Infraestructura Digital
 
 #### 1. Sistemas Electorales Abiertos (Hardware y Software libre y auditable)
-Implementación de sistemas de software y hardware de código abierto para la ejecución de jornadas electorales ágiles, seguras y completamente descentralizadas. Al respaldar el escrutinio y la custodia de actas sobre tecnología de registro distribuido (*blockchain*), se protege el principio del Voto Secreto y se garantiza una auditabilidad absoluta en tiempo real por parte de cualquier ciudadano u organismo, blindando el proceso contra la manipulación centralizada, aumentando la confianza en el proceso.
+Implementación de sistemas de software y hardware de código abierto para la ejecución de jornadas electorales ágiles, seguras y completamente descentralizadas. Al respaldar el escrutinio y la custodia de actas sobre tecnología de registro distribuido (*blockchain*), se protege el principio del Voto Secreto y se garantiza una auditabilidad absoluta en tiempo real por parte de cualquier ciudadano u organismo, blindando el proceso contra la manipulación centralizada y aumentando la confianza en el proceso.
 * [Lee nuestro proyecto sobre Infraestructura Electoral Verificable].
 
 #### 4. Dinero Determinista (Contratación Pública Inmutable)
@@ -56,7 +56,7 @@ Aplicación de tecnología de registro distribuido (*blockchain*) y contratos in
 ### Inteligencia Territorial
 
 #### 1. Gestión Territorial Vía GIS (Gobernanza de Precisión)
-Un sistema de información geográfica de acceso público que permite a las comunidades cartografiar directamente los fallos de infraestructura, necesidades de seguridad y solicitudes de obra. Este mapa vivo reduce la fricción burocrática y elimina intermediarios políticos, conectando la demanda social con la ejecución presupuestaria del Estado.
+Un sistema de información geográfica de acceso público que permite a las comunidades cartografiar directamente los fallos de infraestructura, necesidades de seguridad y solicitudes de obra. Este mapa vivo reduce la fricción burocrática y elimina intermediarios políticos, conectando la demanda social con la ejecución presupuestaria del Estado y mostrando en tiempo real el grado de relevancia que el estado atribuye a cada solicitud.
 * [Aprende más sobre Gestión Territorial Vía GIS].
 
 ---
@@ -66,7 +66,7 @@ Un sistema de información geográfica de acceso público que permite a las comu
 El desarrollo de nuestra investigación, la auditoría del código abierto y la divulgación de estos sistemas requiere la articulación de capacidades humanas y técnicas. No buscamos militantes; buscamos constructores de infraestructura. Puedes sumarte en los siguientes frentes:
 
 * **Desarrollo de Software:** Ingeniería de herramientas *open-source* y criptografía.
-* **Optimización Académica:** Mejoras, traducciones y correcciones técnicas de nuestro material didáctico.
+* **Optimización Académica:** Investigación, mejorias, traducciones y correcciones técnicas de nuestro material didáctico.
 * **Infraestructura de Difusión:** Distribución y defensa del contenido en redes descentralizadas y canales públicos.
 * **Sustento Material:** Donaciones de infraestructura computacional, recursos logísticos o económicos.
 
