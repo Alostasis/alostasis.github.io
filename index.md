@@ -16,7 +16,7 @@ Nuestro actual sistema electoral binario y lineal coloca a las ideas políticas 
 
 ## Quiénes Somos
 
-Somos un colectivo independiente dedicado a diseñar, discutir e implementar arquitecturas alternativas para las herramientas democráticas y los sistemas de gestión pública. Nuestro objetivo es transicionar hacia sistemas basados en principios matemáticos y sociológicos verificables.
+Somos un colectivo independiente dedicado a diseñar, discutir e implementar arquitecturas alternativas para las herramientas democráticas y los sistemas de gestión pública. Nuestro objetivo es desarrollar y disponibilizar herramientas abiertas que permitan transicionar de manera transparente hacia sistemas basados en principios matemáticos y sociológicos verificables.
 
 * [Conoce más sobre nuestra identidad visual](identity.md).
 
