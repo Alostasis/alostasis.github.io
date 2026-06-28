@@ -36,19 +36,23 @@ Al proyectarse hacia arriba para sobrevivir, la arquitectura combinada de estas 
 Un diseño electoral de selección múltiple y descarte algorítmico que reduce drásticamente la polarización, desarticula los incentivos del populismo y desactiva la violencia electoral al priorizar los amplios consensos sobre las minorías ruidosas. 
 * [Lee nuestro análisis sobre Voto Ranqueado].
 
-### 2. Dinero Determinista (Contratación Pública Inmutable)
+### 2. Infraestructura Electoral Verificable (Software y Hardware Electoral Abierto)
+Implementación de sistemas de software y hardware de código abierto para la ejecución de jornadas electorales ágiles, seguras y completamente descentralizadas. Al respaldar el escrutinio y la custodia de actas sobre tecnología de registro distribuido (*blockchain*), se garantiza una auditabilidad matemática absoluta en tiempo real por parte de cualquier ciudadano u organismo, blindando el proceso contra la manipulación centralizada y aumentando la confianza en el proceso.
+* [Lee nuestro proyecto sobre Infraestructura Electoral Verificable].
+
+### 3. Dinero Determinista (Contratación Pública Inmutable)
 Aplicación de tecnología de registro distribuido (*blockchain*) y contratos inteligentes para la ejecución de los recursos del Estado. Esto garantiza transparencia matemática absoluta: cada transacción, licitación y actor involucrado en el desarrollo de la infraestructura pública queda registrado de forma auditable e imborrable.
 * [Aprende más en nuestro artículo sobre Dinero Determinista].
 
-### 3. Currículum Público Abierto
+### 4. Currículum Público Abierto
 Un ecosistema descentralizado basado en tecnologías Wiki dedicado a revelar el historial empírico de los candidatos a cargos públicos. El sistema desvincula el discurso de campaña de las acciones documentadas, consolidando en un solo registro inmutable sus contratos previos, conflictos de interés, litigios, vínculos corporativos y votaciones históricas.
 * [Lee nuestro artículo sobre Currículum Público].
 
-### 4. Democracia Directa Mediante Agentes de IA
+### 5. Democracia Directa Mediante Agentes de IA
 Un protocolo que viabiliza la participación directa del ciudadano sin demandar su atención constante ni saturar su vida diaria. A través de agentes de inteligencia artificial parametrizados de forma privada por cada usuario, el ciudadano mantiene el control de su voto mientras recibe cribados informativos (*briefings*) objetivos, alineados con sus prioridades éticas y geopolíticas.
 * [Explora los Sistemas Modernos para la Democracia Directa].
 
-### 5. Gestión Territorial Vía GIS (Gobernanza de Precisión)
+### 6. Gestión Territorial Vía GIS (Gobernanza de Precisión)
 Un sistema de información geográfica de acceso público que permite a las comunidades cartografiar directamente los fallos de infraestructura, necesidades de seguridad y solicitudes de obra. Este mapa vivo reduce la fricción burocrática y elimina intermediarios políticos, conectando la demanda social con la ejecución presupuestaria del Estado.
 * [Aprende más sobre Gestión Territorial Vía GIS].
 
