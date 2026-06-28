@@ -2,48 +2,58 @@
   <img src="logo-alostasis.png" alt="Alostasis Logo" width="300">
 </p>
 
-> "La principal directiva de cualquier organismo social es su viabilidad a largo plazo."
-
 ---
 
-La legitimidad de las instituciones y de los procesos democráticos tradicionales se encuentran en un peligroso mínimo histórico. Esta inercia estructural amenaza con desencadenar disrupción social, violencia interna y la emergencia de estados autoritarios o tecnofascistas. 
+Las democracias y sus instutiones se han mantenido históricamente inalteradas mientras que la tecnología ha transformado practicamente todos los aspectos de nuestra sociedad. Creemos que las insituciones y procesos democráticos merecen el mismo proceso de mejoría contínua que aplicamos en la Ciencia y la Ingeniería.
+
+La legitimidad de las instituciones y de los procesos democráticos tradicionales se encuentran en un peligroso mínimo histórico. La inercia estructural amenaza con desencadenar disrupción social, violencia interna y la emergencia de estados autoritarios o tecnofascistas. 
 
 La disparidad entre el avance tecnológico exponencial y el estancamiento de nuestras estructuras sociales ha colocado a la democracia en una situación crítica. Actores y movimientos políticos extremos instrumentalizan tecnologías avanzadas de sintetización multimedia para masificar la desinformación, fragmentar el tejido social y forzar a la ciudadanía hacia una falsa dicotomía.
 
-Nuestro actual sistema electoral binario y lineal coloca a las ideas políticas en una ruta de colisión inevitable. Este diseño plano obliga a la sociedad a recurrir al "voto útil", exigiendo concesiones éticas sistemáticas bajo la narrativa de un supuesto riesgo vital. El miedo ha sustituido la esperanza en los procesos democráticos.
+Nuestro actual sistema electoral binario y lineal coloca a las ideas políticas en una ruta de colisión inevitable. Este diseño obliga a la sociedad a recurrir al "voto útil", realizando concesiones éticas bajo la narrativa de un supuesto riesgo vital. El miedo ha sustituido la esperanza en los procesos democráticos.
 
 ---
 
 ## Quiénes Somos
 
-Somos un colectivo independiente dedicado a diseñar, discutir e implementar arquitecturas alternativas para las herramientas democráticas y los sistemas de gestión pública. Nuestro objetivo es desarrollar y disponibilizar herramientas abiertas que permitan transicionar de manera transparente hacia sistemas basados en principios matemáticos y sociológicos verificables.
+Somos un colectivo independiente dedicado a investigar, diseñar e implementar arquitecturas para la gestión y el desarrollo institucional. Aunque nuestra investigación converge de forma natural hacia herramientas democráticas y sistemas de gestión pública, sus principios pueden aplicarse a una amplia variedad de organizaciones e instituciones.
+
+Nuestro objetivo es desarrollar y poner a disposición herramientas abiertas de *software* y *hardware* que permitan transicionar de manera transparente hacia sistemas basados en principios verificables provenientes de las matemáticas, las ciencias sociales y la ingeniería de sistemas.
+
+Buscamos convertirnos en un Insituto Abierto para Ingenieria Insitucional y promover una gestión pública basada en evidencia, sistemas verificables y resultados medibles, reduciendo la dependencia de decisiones puramente ideológicas. Mas que un movimiento queremos realizar contribuciones directas a los sistemas que deseamos mejorar sin alinearnos con corrientes ideológicas particulares.
 
 * [Conoce más sobre nuestra identidad visual](identity.md).
 
 
 ## Nuestros Pilares Colectivos
 
-### 1. Elecciones Ranqueadas (Sistemas de Preferencia)
+### Protocolos Institucionales
+
+#### 1. Elecciones Ranqueadas
 Un diseño electoral de selección múltiple y descarte algorítmico que reduce drásticamente la polarización, desarticula los incentivos del populismo y desactiva la violencia electoral al priorizar los amplios consensos sobre las minorías ruidosas. 
 * [Lee nuestro análisis sobre Voto Ranqueado].
 
-### 2. Infraestructura Electoral Verificable (Software y Hardware Electoral Abierto)
-Implementación de sistemas de software y hardware de código abierto para la ejecución de jornadas electorales ágiles, seguras y completamente descentralizadas. Al respaldar el escrutinio y la custodia de actas sobre tecnología de registro distribuido (*blockchain*), se garantiza una auditabilidad matemática absoluta en tiempo real por parte de cualquier ciudadano u organismo, blindando el proceso contra la manipulación centralizada y aumentando la confianza en el proceso.
-* [Lee nuestro proyecto sobre Infraestructura Electoral Verificable].
+#### 2. Democracia Directa Informada por IA
+Un protocolo que viabiliza la participación directa del ciudadano sin demandar su atención constante ni saturar su vida diaria. A través de agentes de inteligencia artificial parametrizados de forma privada por cada usuario, el ciudadano mantiene en todo momento el control exclusivo de su voto, mientras recibe reportes informativos personalizados (*briefings*) sobre gestiones alineadas con sus prioridades geográficas, éticas y políticas.
+* [Explora los Sistemas Modernos para la Democracia Directa].
 
-### 3. Dinero Determinista (Contratación Pública Inmutable)
-Aplicación de tecnología de registro distribuido (*blockchain*) y contratos inteligentes para la ejecución de los recursos del Estado. Esto garantiza transparencia matemática absoluta: cada transacción, licitación y actor involucrado en el desarrollo de la infraestructura pública queda registrado de forma auditable e imborrable.
-* [Aprende más en nuestro artículo sobre Dinero Determinista].
-
-### 4. Currículum Público Abierto
+#### 3. Currículum Público Abierto
 Un ecosistema descentralizado basado en tecnologías Wiki dedicado a revelar el historial empírico de los candidatos a cargos públicos. El sistema desvincula el discurso de campaña de las acciones documentadas, consolidando en un solo registro inmutable sus contratos previos, conflictos de interés, litigios, vínculos corporativos y votaciones históricas.
 * [Lee nuestro artículo sobre Currículum Público].
 
-### 5. Democracia Directa Mediante Agentes de IA
-Un protocolo que viabiliza la participación directa del ciudadano sin demandar su atención constante ni saturar su vida diaria. A través de agentes de inteligencia artificial parametrizados de forma privada por cada usuario, el ciudadano mantiene el control de su voto mientras recibe cribados informativos (*briefings*) objetivos, alineados con sus prioridades éticas y geopolíticas.
-* [Explora los Sistemas Modernos para la Democracia Directa].
+### Infraestructura Digital
 
-### 6. Gestión Territorial Vía GIS (Gobernanza de Precisión)
+#### 1. Sistemas Electorales Abiertos (Hardware y Software libre y auditable)
+Implementación de sistemas de software y hardware de código abierto para la ejecución de jornadas electorales ágiles, seguras y completamente descentralizadas. Al respaldar el escrutinio y la custodia de actas sobre tecnología de registro distribuido (*blockchain*), se protege el principio del Voto Secreto y se garantiza una auditabilidad absoluta en tiempo real por parte de cualquier ciudadano u organismo, blindando el proceso contra la manipulación centralizada, aumentando la confianza en el proceso.
+* [Lee nuestro proyecto sobre Infraestructura Electoral Verificable].
+
+#### 4. Dinero Determinista (Contratación Pública Inmutable)
+Aplicación de tecnología de registro distribuido (*blockchain*) y contratos inteligentes para la ejecución de los recursos del Estado. Esto garantiza transparencia matemática absoluta: cada transacción, licitación y actor involucrado en el desarrollo de la infraestructura pública queda registrado de forma auditable e imborrable.
+* [Aprende más en nuestro artículo sobre Dinero Determinista].
+
+### Inteligencia Territorial
+
+#### 1. Gestión Territorial Vía GIS (Gobernanza de Precisión)
 Un sistema de información geográfica de acceso público que permite a las comunidades cartografiar directamente los fallos de infraestructura, necesidades de seguridad y solicitudes de obra. Este mapa vivo reduce la fricción burocrática y elimina intermediarios políticos, conectando la demanda social con la ejecución presupuestaria del Estado.
 * [Aprende más sobre Gestión Territorial Vía GIS].
 
