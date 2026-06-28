@@ -63,4 +63,4 @@ El desarrollo de nuestra investigación, la auditoría del código abierto y la 
 * **Infraestructura de Difusión:** Distribución y defensa del contenido en redes descentralizadas y canales públicos.
 * **Sustento Material:** Donaciones de infraestructura computacional, recursos logísticos o económicos.
 
-[Explora el Repositorio de Código en GitHub] | Contacto Seguro: [Tu Correo de Proton]
+Explora el Repositorio de Código en [github.com/alostasis] | Contacto Seguro: [alostasis@proton.me]
