@@ -1,42 +1,41 @@
-# ALOSTASIS
-## For a Viable Future
+> "La principal directiva de cualquier organismo social es su viabilidad a largo plazo."
 
-> "Survival is not a matter of political compromise. It is a matter of systemic compatibility."
+La legitimidad institucional y procedimientos democráticos se encuentran en un peligroso mínimo histórico que puede desencadenar disrrupción social, violencia interna y la emergencia de estados facistas anti-democráticos. La disparidad entre avances tecnológicos y sociales ha colocado nuestras democracias en una situación muy precaria. Personas y movimientos políticos cada vez mas extremos se apoyan en avanzadas tecnologías de sintetización multimedia para generar desinformación a escalas nunca antes vistas y promover una falsa dicotomía.
+
+Nuestro actual sistema electoral binario, pone las ideas políticas en curso de colision y fuerza las personas al voto útil realizando concesiones éticas sustentadas bajo un supuesto riesgo vital.
+
+# Quienes Somos
+Somos un grupo de personas interesadas en promover y discutir implementações alternativas de las herramientas democráticas y sistemas de gestión transparente de recursos públicos. Nuestro objetivo es la transición a sistemas basados en principios matemáticos y sociológicos verificables que promuevan una verdadera democracia basada en la esperanza y no en el miedo.
+
+**Alostasis** es el proceso mediante el cual un organismo busca la estabilidad mediante un cambio en sus procesos internos. Normalmente los procesos de Alostasis suceden cuando el organismo se encuentra bajo estrés ambiental o bajo riesgo vital. Creemos que nuestra sociedad tiene la capacidad de realizar cambios importantes para promover la estabilidad democrática, institucional y del Estado Social de Derecho. Creemos en la **Estabilidad Mediante Cambio** y en la viabilidad de la democrácia en nuestro entorno tecnológico.
+
+
+# Nuestros pilares
+
+## Elecciones ranqueadas
+Un sistema electoral de selección múltiple que reduce la polarización plolítica y desarticula el Populismo y la violencia electoral. Lee nuestro artículo sobre *Voto Ranqueado* para saber más.
+
+## Dinero determinista
+Un sistema *blockchain* para la gestión de recursos y contratos públicos que garantiza absoluta tansparencia de todas las transacciones y todos los involucrados en el desarrollo de obras y proyectos del estado. Aprende más en nuestro artículo sobre *Dinero determinista*.
+
+## Curriculum Público
+Un sistema de currículos públicos basado en tecnologías Wiki para revelar el verdadero histórico de servicios de candidados a cargos por selección democrática. El artículo puede contener contratos públicos, vínculos comprobados con empresarios, evidencia de conflictos de intereses e histórico de litigios y procesos criminales. Mediante este sistema se busca desvincular objetivamente el discurso político de las acciones documentadas de los candidados. Lee nuestro artículo sobre "Curriculum Público".
+
+## Democracia Directa
+Un sistema de agentes basados en IA mediante el cual se busca viabilizar la democrácia directa sin requerir atención constante de los ciudadanos. Los ciudadanos mandendrán el control de sus votos pero recibirán un *brefing* basado en su ideología política y prioridades. Aprende mas sobre "Sistemas Modernos para la Democrácia Directa".
+
+## Gestion territorial via GIS
+Un sistema de geoinformación para los ciudadanos identificar problemas de infraestructura y seguridad y solicitar acciones por parte del estado eliminando la fricción y los intermediarios. Aprende más sobre "Gestión territorial via GIS".
+
+# Llamado a actuar
+
+El desarrollo de nuestra investigación, implementación de sistemas y divugación de proyectos requiere cantidades significativas de recursos humanos y económicos. Tu ayuda puede ser crucial en cualquiera de estos frentes:
+
+* Desarrollo de herramentas open source
+* Mejorias y correcciones en nuestro material didáctico
+* Divulgación de contenido en redes sociales
+* Donaciones materiales o económicas
 
 ---
 
-## The Imperative
-We are not here to experiment, nor are we here to offer another political ideology. We are here because the inherited architecture of modern public administration and electoral design has hit a structural wall. The current ways are fundamentally **incompatible** with building a viable future.
-
-In biology, when an environment shifts permanently, an organism cannot survive by clinging to its old baseline. It must undergo **allostasis**—achieving stability through active, calculated internal change. Our civic systems must now do the same.
-
----
-
-## Core Protocols
-
-### 1. The Geometry of Consensus (Ranked-Choice Architecture)
-Traditional single-selection voting rewards polarization and fuels populism by trapping society in a binary "Us vs. Them" loop. By changing the mathematical structure of the ballot to a ranked framework, we realign the incentives of the entire political game. 
-* **The Elimination Loop:** Extreme pluralities hit a hard mathematical ceiling.
-* **Consensus Gravity:** Candidates are forced to seek second-choice alliances, shifting the center of gravity toward broad societal acceptability.
-
-### 2. Radical Incorruptibility (The Open Ledger)
-Trust cannot be manufactured through public relations; it must be built into the code. Every administrative action, contract, and electoral count must be clear, unalterable, and visible to all. We are building a system designed to be held up to the direct light of public scrutiny, showing zero hidden flaws.
-
----
-
-## A Metaphor of Dimensional Realignment
-
-Look closely at our architecture. 
-
-On a flat, two-dimensional plane, different societal vectors are locked on an absolute collision course. This is the current state of our democracy—a toxic, polarizing bottleneck where competing ideals smash into each other at the center, causing systemic failure.
-
-We do not solve this by forcing anyone to bend, break, or abandon their ideals. Instead, we introduce a new dimension. 
-
-By upgrading our electoral and data frameworks, we lift these trajectories off the plane of conflict. In this higher dimension of structural consensus, the exact same forces that were destined to collide are realigned—flowing parallel to each other, preserving their unique identities, and moving together toward a viable future.
-
-As these independent lines project upward to survive, their combined architecture seamlessly forms the uppercase **A**—the fundamental cipher for **Alostasis**. 
-
-**Estabilidade mediante cambio.**
----
-
-[Explore the Code on GitHub](https://github.com/your-username) | Contact: info@your-proton-email
+[Explore the Code on GitHub](https://github.com/alostasis) | Contact: alostasis@proton.me
