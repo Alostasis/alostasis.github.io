@@ -16,21 +16,10 @@ Nuestro actual sistema electoral binario y lineal coloca a las ideas políticas 
 
 ## Quiénes Somos
 
-Somos un colectivo independiente dedicado a diseñar, discutir e implementar arquitecturas alternativas para las herramientas democráticas y los sistemas de gestión pública. Nuestro objetivo es transicionar hacia sistemas basados en principios matemáticos y sociológicos verificables. 
+Somos un colectivo independiente dedicado a diseñar, discutir e implementar arquitecturas alternativas para las herramientas democráticas y los sistemas de gestión pública. Nuestro objetivo es transicionar hacia sistemas basados en principios matemáticos y sociológicos verificables.
 
----
+* [Conoce más sobre nuestra identidad visual](identity.md).
 
-## Nuestro Nombre y Logo
-
-La **Alostasis** es el proceso biológico mediante el cual un organismo logra la estabilidad a través de la transformación activa de sus procesos internos, respondiendo a un estrés ambiental crítico o a un riesgo de supervivencia. Sostenemos que la sociedad civil posee la capacidad —y la obligación— de ejecutar cambios estructurales profundos para garantizar la viabilidad del Estado Social de Derecho en pleno siglo XXI. Creemos de forma pragmática en la **Estabilidad mediante cambio**.
-
-Nuestro logo es una metáfora visual del presente y el futuro que deseamos. Representamos en un plano bidimensional la trayectoria esperada de los vectores sociales de distintas ideologías. Dada la polarización del clima político actual, dichas direcciones están condenadas a colisionar y anularse mutuamente en el centro deteniendo cualquier progreso y desperdiciando valiosos recursos en disputas tribales.
-
-Nuestra propuesta no exige que ningún ciudadano se doblegue, diluya o abandone sus ideales para coexistir con otros. En su lugar, introducemos una nueva dimensión. Al implementar protocolos de consenso avanzados, elevamos las trayectorias políticas fuera del plano del conflicto. En esta nueva dimensión es posible converger sin colisionar, las líneas pueden fluir paralelas, preservando su identidad única mientras avanzan juntas hacia un futuro viable. 
-
-Al proyectarse hacia arriba para sobrevivir, el flujo combinado de estas líneas forma la **A** mayúscula: el cifrado de **Alostasis**.
-
----
 
 ## Nuestros Pilares Colectivos
 
