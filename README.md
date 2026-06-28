@@ -1,4 +1,6 @@
-# Estabilidad mediante cambio
+<p align="center">
+  <img src="logo-alostasis.png" alt="Alostasis Logo" width="300">
+</p>
 
 > "La principal directiva de cualquier organismo social es su viabilidad a largo plazo."
 
