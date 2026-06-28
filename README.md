@@ -6,11 +6,11 @@
 
 ---
 
-La legitimidad institucional y los procedimientos democráticos tradicionales se encuentran en un peligroso mínimo histórico. Esta inercia estructural amenaza con desencadenar disrupción social, violencia interna y la emergencia de estados autoritarios o tecnofascistas. 
+La legitimidad de las instituciones y de los procesos democráticos tradicionales se encuentran en un peligroso mínimo histórico. Esta inercia estructural amenaza con desencadenar disrupción social, violencia interna y la emergencia de estados autoritarios o tecnofascistas. 
 
 La disparidad entre el avance tecnológico exponencial y el estancamiento de nuestras estructuras sociales ha colocado a la democracia en una situación crítica. Actores y movimientos políticos extremos instrumentalizan tecnologías avanzadas de sintetización multimedia para masificar la desinformación, fragmentar el tejido social y forzar a la ciudadanía hacia una falsa dicotomía.
 
-Nuestro actual sistema electoral binario y lineal coloca a las ideas políticas en una ruta de colisión inevitable. Este diseño plano obliga a la sociedad a recurrir al "voto útil", exigiendo concesiones éticas sistemáticas bajo la narrativa de un supuesto riesgo vital. El miedo ha sustituido a la arquitectura de la esperanza.
+Nuestro actual sistema electoral binario y lineal coloca a las ideas políticas en una ruta de colisión inevitable. Este diseño plano obliga a la sociedad a recurrir al "voto útil", exigiendo concesiones éticas sistemáticas bajo la narrativa de un supuesto riesgo vital. El miedo ha sustituido la esperanza en los procesos democráticos.
 
 ---
 
@@ -18,17 +18,17 @@ Nuestro actual sistema electoral binario y lineal coloca a las ideas políticas 
 
 Somos un colectivo independiente dedicado a diseñar, discutir e implementar arquitecturas alternativas para las herramientas democráticas y los sistemas de gestión pública. Nuestro objetivo es transicionar hacia sistemas basados en principios matemáticos y sociológicos verificables. 
 
-La **Alostasis** es el proceso biológico mediante el cual un organismo logra la estabilidad a través de la transformación activa de sus procesos internos, respondiendo a un estrés ambiental crítico o a un riesgo de supervivencia. Sostenemos que la sociedad civil posee la capacidad —y la obligación— de ejecutar cambios estructurales profundos para garantizar la viabilidad del Estado Social de Derecho en pleno siglo XXI. Creemos de forma pragmática en la **Estabilidad mediante cambio**.
-
 ---
 
-## La Geometría de nuestro Símbolo
+## Nuestro Nombre y Logo
 
-En un plano bidimensional, los vectores sociales de distintas ideologías están condenados a colisionar y destruirse mutuamente en el centro. Nuestra propuesta no exige que ningún ciudadano doblegue, diluya o abandone sus ideales para coexistir con otros. 
+La **Alostasis** es el proceso biológico mediante el cual un organismo logra la estabilidad a través de la transformación activa de sus procesos internos, respondiendo a un estrés ambiental crítico o a un riesgo de supervivencia. Sostenemos que la sociedad civil posee la capacidad —y la obligación— de ejecutar cambios estructurales profundos para garantizar la viabilidad del Estado Social de Derecho en pleno siglo XXI. Creemos de forma pragmática en la **Estabilidad mediante cambio**.
 
-En su lugar, introducemos una nueva dimensión. Al implementar protocolos de consenso avanzados, elevamos las trayectorias políticas fuera del plano del conflicto. En esta dimensión de convergencia geométrica, las líneas fluyen paralelas, preservando su identidad única mientras avanzan juntas hacia un futuro viable. 
+Nuestro logo es una metáfora visual del presente y el futuro que deseamos. Representamos en un plano bidimensional la trayectoria esperada de los vectores sociales de distintas ideologías. Dada la polarización del clima político actual, dichas direcciones están condenadas a colisionar y anularse mutuamente en el centro deteniendo cualquier progreso y desperdiciando valiosos recursos en disputas tribales.
 
-Al proyectarse hacia arriba para sobrevivir, la arquitectura combinada de estas líneas ascendentes forma de manera natural la **A** mayúscula: el cifrado de **Alostasis**.
+Nuestra propuesta no exige que ningún ciudadano se doblegue, diluya o abandone sus ideales para coexistir con otros. En su lugar, introducemos una nueva dimensión. Al implementar protocolos de consenso avanzados, elevamos las trayectorias políticas fuera del plano del conflicto. En esta nueva dimensión es posible converger sin colisionar, las líneas pueden fluir paralelas, preservando su identidad única mientras avanzan juntas hacia un futuro viable. 
+
+Al proyectarse hacia arriba para sobrevivir, el flujo combinado de estas líneas forma la **A** mayúscula: el cifrado de **Alostasis**.
 
 ---
 
