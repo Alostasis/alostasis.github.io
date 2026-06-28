@@ -1,7 +1,5 @@
 # Identidad y Simbología de Alostasis
 
-> "La arquitectura es la marca; la marca es la arquitectura."
-
 ---
 
 <p align="center">
