@@ -59,8 +59,8 @@ Aplicación de tecnología de registro distribuido (*blockchain*) y contratos in
 Un sistema de información geográfica de acceso público que permite a las comunidades cartografiar directamente los fallos de infraestructura, necesidades de seguridad y solicitudes de obra. Este mapa vivo reduce la fricción burocrática y elimina intermediarios políticos, conectando la demanda social con la ejecución presupuestaria del Estado y mostrando en tiempo real el grado de relevancia que el estado atribuye a cada solicitud.
 * [Aprende más sobre Gestión Territorial Vía GIS].
 
-## Alostasis Sandbox (Juego de Investigación)
-Un simulador multi-jugador en que una sociedad virtual evoluciona artificialmente siguiendo un algoritmo markoviano basade en estudios actualizados sobre comportamiento humano, políticas sociales, obras públicas y elecciones virtuales. El Alostasis Sandbox permite simular sociedades a escala donde cada jugador representa un subconjunto diverso de ciudadanos y participa en elecciones directas y en la seleccion democrática de líderes virtuales que promoveran las políticas de cada jugador.
+## Laboratorio de Gobernanza Probabilística (Simulador Alostático)
+Un simulador multi-jugador abierto que invita a la sociedad civil a colaborar de una manera entretenida. En el "juego" que una sociedad virtual evoluciona artificialmente siguiendo un algoritmo markoviano basade en estudios actualizados sobre comportamiento humano, políticas sociales, obras públicas y elecciones virtuales. El simulador permite modelar sociedades a escala donde cada jugador representa un subconjunto diverso de ciudadanos y participa en elecciones directas y en la seleccion democrática de líderes virtuales que promoveran las políticas de cada jugador.
 * [Aprende más sobre Alostasis Sandbox](sandbox.md)
 
 ---
