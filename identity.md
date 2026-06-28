@@ -1,4 +1,4 @@
-# Identidad y Simbología de Alostasis
+# Identidad y Simbología
 
 ---
 
